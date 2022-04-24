@@ -1,6 +1,6 @@
 # R-Themes
 
-<a href="https://github.com/RazorKenway"><img title="addon" src="https://img.shields.io/badge/RazorKenway-Zip Cracker-brightgreen?style=for-the-badge&logo=appveyor"></a>
+<a href="https://github.com/RazorKenway"><img title="addon" src="https://img.shields.io/badge/RazorKenway-R Themes-brightgreen?style=for-the-badge&logo=appveyor"></a>
 
 ## Video Lesson : https://youtu.be/uGuWFyUUyN8
 
