@@ -7,7 +7,7 @@
 <img src="R-Themes.png"/>
 
 <p align="center">
-<a href="https://github.com/RazorKenway"><img title="addon" src="https://img.shields.io/badge/Razor_Kenway-R Themes-blueviolet?style=for-the-badge&logo=appveyor"></a>
+<a href="https://github.com/RazorKenway"><img title="addon" src="https://img.shields.io/badge/Razor  Kenway-R Themes-blueviolet?style=for-the-badge&logo=appveyor"></a>
 
 <p align="center">
 <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=RazorKenway" />
